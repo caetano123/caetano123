@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Caetano
 
-Bienvenidos a mi perfil de GitHub. Soy un estudiante de 5to año de Informática en la **Escuela Técnica Superior Las Piedras UTU** en Uruguay. Estoy desarrollando mis habilidades en el mundo de la tecnología con un enfoque en programación y desarrollo web. Mi objetivo es seguir mejorando y crear soluciones que puedan tener un impacto real.
+Bienvenidos a mi perfil de GitHub. Soy un estudiante de 6to año de Informática en la **Escuela Técnica Superior Las Piedras UTU** en Uruguay. Estoy desarrollando mis habilidades en el mundo de la tecnología con un enfoque en programación y desarrollo web. Mi objetivo es seguir mejorando y crear soluciones que puedan tener un impacto real.
 
 ---
 
